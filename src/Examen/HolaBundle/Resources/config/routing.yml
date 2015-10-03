@@ -1,0 +1,3 @@
+examen_hola_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: ExamenHolaBundle:Default:index }

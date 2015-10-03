@@ -1,0 +1,4 @@
+services:
+#    examen_sorter.example:
+#        class: Examen\SorterBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

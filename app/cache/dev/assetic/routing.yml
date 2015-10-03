@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: /Applications/mampstack-5.5.28-0/apache2/htdocs/examen/app/config/routing_dev.yml

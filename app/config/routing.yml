@@ -1,0 +1,11 @@
+examen_sorter:
+    resource: "@ExamenSorterBundle/Resources/config/routing.yml"
+    prefix:   /
+
+examen_hola:
+    resource: "@ExamenHolaBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation

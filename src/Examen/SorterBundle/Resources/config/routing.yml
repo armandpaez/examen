@@ -1,0 +1,3 @@
+examen_sorter_homepage:
+    path:     /sorter/{range}
+    defaults: { _controller: ExamenSorterBundle:Default:index }
